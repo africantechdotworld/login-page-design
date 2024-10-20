@@ -1,2 +1,2 @@
 # login-page-design
- Simple and clean design login page card built with HTML and CSS
+ Simple and clean login page card design built with HTML and CSS
